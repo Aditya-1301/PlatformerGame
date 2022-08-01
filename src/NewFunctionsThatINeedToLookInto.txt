@@ -1,0 +1,3 @@
+paintComponent in  Java
+Graphics class in Java
+JFrame.setLocationRelativeTo() in  Java
