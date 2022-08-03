@@ -9,7 +9,7 @@ import java.awt.*;
 
 public class GamePanel extends JPanel {
     private final MouseInputs mouseInputs;
-    private int xDelta = 0, yDelta = 0;
+    private int xDelta = 100, yDelta = 100;
 
     public GamePanel(){
         mouseInputs = new MouseInputs(this);

@@ -37,6 +37,7 @@ public class KeyboardInputs implements KeyListener {
                 System.out.println("RIGHT");
                 gamePanel.changeXDelta(5);
             }
+            default -> {}
         }
     }
 
