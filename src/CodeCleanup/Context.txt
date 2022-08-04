@@ -1,0 +1,5 @@
+PURPOSE OF THE CURRENT PACKAGE:
+-------------------------------
+This package is for archiving all the classes and functions that are not used anymore
+based on the current functionality of this Application but that can be reused if needed at a
+future point.
